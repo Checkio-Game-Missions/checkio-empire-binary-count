@@ -1,16 +1,15 @@
 For the Robots the decimal format is inconvenient. If they need to count to "1",
-their computer brains want to count it in the binary representation of that number.
+their computer brains want to count it out in binary representation of that number.
 You can read more about binary [here](http://en.wikipedia.org/wiki/Binary_number).
 
-Thus we are using integers to inform another towers about quantity of enemies.
+So for now, we are using integers to inform our watchtowers about the quantity of enemies they have incoming.
 
-You are given a number (a positive integer).
-You should convert it to the binary format and count how many unities (1) are in the number spelling.
-For example: 5 = 0b101 contains two unities, so the answer is 2.
+You are given a positive integer as a number, and you need to convert it to the binary format then count how many units (1) there are.
+For example: 5 = 0b101 contains two units, so the answer is 2.
 
 **Input:** A number as a positive integer. 
 
-**Output:** The quantity of unities in the binary form as an integer.
+**Output:** The quantity of units in binary form as an integer.
 
 
 **Example:**
@@ -23,7 +22,7 @@ count_units(1022) == 9
 ```
 **How it is used:**
 
-How to convert a number to the binary form. It can be useful for Computer Science purpЛадно
+Binary as a computer language is very difficult for humans to understand, but makes the lives of our computers and robots easier. Every time you press a key on your keyboard it sends a binary signal informing the computer you hit that key. Every time you code a program, the computer takes your code and interprets it in binary then executes your program. 
 
 **Precondition:**
 ```python
