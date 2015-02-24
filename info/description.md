@@ -1,3 +1,3 @@
-You are given a number (a positive integer).
-You should convert it to the binary format and count how many unities (1) are in the number spelling.
-For example: 5 = 0b101 contains two unities, so the answer is 2.
+You are given a positive integer as a number, and you need to convert it to the binary format 
+then count how many units (1) there are.
+For example: 5 = 0b101 contains two units, so the answer is 2.
