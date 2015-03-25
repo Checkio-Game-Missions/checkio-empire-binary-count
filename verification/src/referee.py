@@ -10,3 +10,6 @@ class Referee(RefereeBase):
     ENVIRONMENTS = settings_env.ENVIRONMENTS
 
     DEFAULT_FUNCTION_NAME = "count_units"
+    FUNCTION_NAMES = {
+        "javascript": "countUnits"
+    }
