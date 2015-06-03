@@ -1,4 +1,3 @@
 **Precondition:**
-```python
-0 < number <= 2 ** 32
-```
+
+`0` &lt; `number` &le; `2`<sup>`32`</sup>
