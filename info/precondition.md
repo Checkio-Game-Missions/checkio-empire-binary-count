@@ -1,3 +1,3 @@
 **Precondition:**
 
-`0` &lt; `number` &le; `2`<sup>`32`</sup>
+`0 ≤ number ≤ 2`<sup>`32`</sup>
