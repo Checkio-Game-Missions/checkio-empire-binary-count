@@ -7,3 +7,5 @@ if __name__ == '__main__':
     assert count_units(15) == 4
     assert count_units(1) == 1
     assert count_units(1022) == 9
+
+    print("Use 'Check' to earn sweet rewards!")
