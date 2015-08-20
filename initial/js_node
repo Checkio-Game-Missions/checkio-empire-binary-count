@@ -12,4 +12,6 @@ if (!global.is_checking) {
     assert.equal(countUnits(15), 4, "0b1111");
     assert.equal(countUnits(1), 1, "0b1");
     assert.equal(countUnits(1022), 9, "0b1111111110");
+    console.log("Use 'Check' to earn sweet rewards!");
 }
+
